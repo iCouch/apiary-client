@@ -18,7 +18,7 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency "rest-client", "~> 1.8"
   gem.add_dependency "rack", "~> 2.0.0.alpha"
-  gem.add_dependency "rake", "~> 10.4"
+  gem.add_dependency "rake", "~> 11.1.1"
   gem.add_dependency "thor", "~> 0.19.1"
 
   gem.add_runtime_dependency "json", "~> 1.8"

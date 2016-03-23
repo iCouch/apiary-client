@@ -75,7 +75,7 @@ Usage:
   apiary fetch --api-name=API_NAME
 
 Options:
-  --api-name=API_NAME  
+  --api-name=API_NAME
   [--api-host=HOST]    # Specify apiary host
   [--output=FILE]      # Write apiary.apib into specified file
 
@@ -115,7 +115,7 @@ Options:
   [--path=PATH]               # Specify path to blueprint file
                               # Default: apiary.apib
   [--api-host=HOST]           # Specify apiary host
-  --api-name=API_NAME         
+  --api-name=API_NAME
 
 Publish apiary.apib on docs.API_NAME.apiary.io
 ```
@@ -128,7 +128,7 @@ Usage:
   apiary version
 
 Options:
-  [--{:aliases=>"-v"}={:ALIASES=>"-V"}]  
+  [--{:aliases=>"-v"}={:ALIASES=>"-V"}]
 
 Show version
 ```
